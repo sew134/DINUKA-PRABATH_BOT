@@ -7,26 +7,26 @@
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "94770349867",
       "required": true
     },  
 
     "PASSWORD": {
-      "description": "Enter a password of your choice here",
+      "description": "ssheron199",
       "required": true
     },
 
     "SESSION_ID": {
-      "description": "Enter session-id here",
+      "description": "PRABATH-MD~0mEBxB5a#EjPju8DnjfzULfegnl3fvwYWljKpoGhAZzYVDNmMzas",
       "required": false
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "sew134",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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",
       "required": true
     }   
 },
